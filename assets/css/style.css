@@ -1,11 +1,12 @@
 * {
     padding: 0;
-    margin: 0;
+    
     border: 0;
 }
 
 body {
     font-family: "Montserrat", sans-serif;
+    background-color: #dddddd;
     
 }
 
@@ -17,8 +18,7 @@ body {
 }
 
 .navbar-brand {
-    font-weight: 500;
-    text-transform: uppercase;
+    height: 130px;
 }
 
 .navbar-dark .navbar-brand {
@@ -49,13 +49,30 @@ body {
 .jumbotron {
     opacity: 0.9;
     background-color: #dddddd;
+    text-align: center;
+    
 }
 
 .brand {
+    font-family: "Raleway" , sans-serif;
     text-transform: uppercase;
+    color: #033249;
 }
 
-/* Footer */
+.btn-lg {
+    background-color: #033249;
+    color: #32e0c4;
+    
+    
+    
+}
+
+.btn-lg:hover {
+    background-color: #dddddd;
+    color: #033249;
+}
+
+/* Footer and social links */
 
 footer {
     background-color: #033249;
@@ -77,11 +94,16 @@ footer {
 
 .socials a {
     color: #dddddd;
-    font-size: 20px;
+    font-size: 160%;
     width: 50px;
     margin: 15px;
     padding: 5px;
     
+}
+
+.socials a:hover {
+    background-color: #033249;
+    color: #32e0c4;
 }
 
 
