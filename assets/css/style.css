@@ -1,14 +1,18 @@
 * {
-    padding: 0;;
+    padding: 0;
     margin: 0;
-    border: 0;
+    
     
 }
 
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Raleway", sans-serif;
     background-color: #dddddd;
     
+}
+
+h1, h2, h3, h4, h5, p {
+    color: #033249;
 }
 
 /* Navbar*/
@@ -35,7 +39,7 @@ body {
 /* Jumbotron and Main Image */
 
 .jumbotron-holder {
-    height: 85vh;
+    height: 65vh;
     background: url("../images/charlotte-stowe-unsplash.jpg") no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -55,9 +59,14 @@ body {
 }
 
 .brand {
-    font-family: "Raleway" , sans-serif;
+    
+    font-weight: 700;
     text-transform: uppercase;
     color: #033249;
+}
+
+.brand-strapline {
+    text-transform: uppercase;
 }
 
 .btn-lg {
@@ -73,14 +82,51 @@ body {
     color: #033249;
 }
 
+/* Services section */
+
+.services-section {
+    text-align: center;
+    padding: 8% 6%;
+    outline: 1px solid #033249;
+    outline-offset: -10px;
+    
+}
+
+.fas {
+    padding: 3%;
+    color:#033249;
+}
+
+.fas:hover {
+    color:#32e0c4;
+}
+
+.card-deck {
+    margin: 0;
+}
+
+.card-deck .card {
+    margin-bottom: 15px;
+}
+
+.card-title {
+    text-transform: uppercase;
+    
+}
+
 /* Footer and social links */
 
 footer {
     background-color: #033249;
     color: #dddddd;
     height: 150px;
-    padding: 20px;
+    padding: 35px;
     
+}
+
+.footer-text {
+    color: #dddddd;
+    text-align: center;
 }
 
 .socials {
