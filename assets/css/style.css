@@ -24,9 +24,10 @@ p {
 
 .navbar {
     background-color: #033249;
-    
+
 
 }
+
 
 .navbar-brand {
     height: 130px;
@@ -59,33 +60,33 @@ p {
 
 .jumbotron {
     opacity: 0.9;
-    background-color: rgb(3, 50, 73, 0.8);
+    background-color: rgb(3, 50, 73, 1);
     color: #dddddd;
     text-align: center;
-    margin-top: 10px;
-
-
-}
-
-.brand {
-
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #033249;
+    margin-top: 32px;
 }
 
 .brand-strapline {
     text-transform: uppercase;
+    color: #dddddd;
+}
+
+.strap {
+    color: #dddddd;
+}
+
+.jumbotron p {
+    color: #dddddd;
 }
 
 .btn-lg {
-    background-color: #033249;
-    color: #32e0c4;
+    background-color: #dddddd;
+    color: #033249;
 }
 
 .btn-lg:hover {
-    background-color: #dddddd;
-    color: #033249;
+    background-color: #033249;
+    color: #dddddd;
 }
 
 
@@ -164,7 +165,7 @@ footer {
 /* Contact Page */
 
 .contact-section {
-    background: url("https://images.unsplash.com/photo-1619962580134-d8e4443c8026?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80");
+    background: url("../images/redcharlie-iCPpeZnGrlM-unsplash.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -192,6 +193,7 @@ footer {
 
 label {
     color: #dddddd;
+
 }
 
 .btn-primary {
@@ -207,8 +209,9 @@ label {
 
 @media only screen and (max-width: 600px) {
     .contact-form {
-        width:90%;
+        width: 85%;
     }
+
     .hero-container .content {
         align-items: center;
     }
