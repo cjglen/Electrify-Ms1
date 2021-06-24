@@ -43,7 +43,7 @@ p {
 }
 
 
-/* Jumbotron and Main Image */
+/* Bootstrap Jumbotron and background Image */
 
 .jumbotron-holder {
     height: 65vh;
@@ -80,7 +80,7 @@ p {
 }
 
 .btn-lg {
-    background-color: #dddddd;
+    background-color: #32e0c4;
     color: #033249;
 }
 
@@ -90,7 +90,7 @@ p {
 }
 
 
-/* Services section */
+/* Services section with icons */
 
 .services-section {
     text-align: center;
@@ -116,6 +116,7 @@ p {
 
 .card-deck .card {
     margin-bottom: 15px;
+    margin-top: 0;
 }
 
 .card-title {
@@ -206,23 +207,44 @@ label {
     background-color: #32e0c4;
 }
 
-.left, .right {
-    height: 100vh;
-    width: 100%;
+
+  
+.about {
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px 25px;
+    
 }
 
-.left {
-    background: url("../images/Electrify-screenshot.png") center;
-    object-fit: cover;
-    object-position: center;
-   
+.featurette {
+    padding: 20px;
+    
+}
+.btn-secondary {
+    background-color: #033249;
+    color: #dddddd;
+    border-style: none;
 }
 
-.right {
-    background: #32e0c4;
+.btn-secondary:hover {
+    background-color: #033249;
+    color: #32e0c4;
+    border-style: none;
+}
+
+.brand-link {
+    text-decoration: none;
+    color: #033249;
+    text-transform: uppercase;
+}
+
+.brand-link:hover {
+    color: #0D7377;
 }
 
 
+
+/* Media Queries */
 
 
 @media only screen and (max-width: 600px) {
