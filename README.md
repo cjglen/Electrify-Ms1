@@ -22,7 +22,7 @@ Colours used throughout the site are:
 ![32e0c4](assets/images/32e0c4-screenshot.png "#32e0c4")
 ![dddddd](assets/images/dddddd-screenshot.png "#dddddd")
 
-These colours are used in the logo and consistently throughout the site. I chose these colours as I feel the teal shade is on trend and goes with the modern feel and aims of the business. The blue complements the teal and gives the site a proffesional look.
+These colours are used in the logo and consistently throughout the site. I chose these colours as I feel the teal shade is on trend and goes with the modern feel and aims of the business. The blue complements the teal and gives the site a professional look.
 
 
 ### Fonts
@@ -52,14 +52,14 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-### Libraries, Frameworks and Programs:
+### Libraries, Frameworks and Other tools:
 
 * [Bootstrap](https://getbootstrap.com/)
 
-   * Bootstrap was used to assist with the styling and responsiveness of the site, creating a proffesional looking appearance.    
+   * Bootstrap was used to assist with the styling and responsiveness of the site, creating a professional looking appearance.    
 * [Font Awesome](https://fontawesome.com/)
 
-  * Font Awesome was used for the clickable Social media icons in the footer and also the icons on the home page.
+  * Font Awesome was used for the clickable social media icons in the footer and also the icons on the home page.
 
 * [Google Fonts](https://fonts.google.com/)
 
@@ -67,11 +67,11 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 
 * [Git Pod](https://www.gitpod.io/)
 
-  * Gitpod was used to build the project and the terminal used to commit and push to Github.
+  * Gitpod was used to build the project and the terminal used to commit and push to GitHub.
 
 * [Git Hub](https://github.com/)
 
-  * Git Hub is used to store the projects code after being pushed from Git and also currently publishing it.
+  * GitHub is used to store the projects code after being pushed from Git and also currently publishing it.
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
@@ -81,6 +81,10 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 
   * Balsamiq was used to create the original Wireframes for the project at its inception.
 
+  * [Unsplash](https://unsplash.com/)
+
+    * All images on the site are used from Unsplash.
+
 
   ## Features
 
@@ -88,11 +92,11 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 
  * Footer, this again is consistent across the site, it is home to the clickable social icons which open on separate tabs. 
 
- * The homepage is home to a background image with Bootstrap Jumbotron, there is a call to action button included. Further down the page there are two further sections, one including Font Awesome icons to show the business services and the next section using Bootstrap cards with images.
+ * The homepage is home to a background image with Bootstrap Jumbotron, there is a call to action button included. Further down the page there are two other sections, one including Font Awesome icons to show the business services and the next section using Bootstrap cards with images.
 
- * The about us page has more info about the business and includes more bootstrap cards and is inspired by an example on the [Bootstrap](https://getbootstrap.com/docs/5.0/examples/) site.
+ * The About Us page has more info about the business and includes more bootstrap cards and is inspired by an example on the [Bootstrap](https://getbootstrap.com/docs/5.0/examples/) site.
 
- * The contact us page is a full background image with a responsive contact us form built with Bootstrap and CSS.This is where most of the call to action buttons lead. The user must input their name, email, telephone number with a message included to submit succesfully.
+ * The Contact Us page is a full background image with a responsive contact us form built with Bootstrap and CSS. This is where most of the call to action buttons lead. The user must input their name, email and telephone number with a message included to submit succesfully.
 
  ## Potential Future Features
 
@@ -105,6 +109,62 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
  ## Testing 
 
  Chrome DevTools was used throughout the project for testing and debugging styling and positional issues.
+
+ ### HTML5
+
+ I ran the completed sites code through [W3C Markup Validation Service](https://validator.w3.org/) with no errors or warnings to show.
+
+ ![W3C Markup Validation](assets/images/w3c-html-check.png)
+
+ ### CSS3
+
+ I also ran it through [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) also with no errors or warnings.
+
+ ![W3C CSS Validation](assets/images/w3c-css-validation.png)
+
+ ### Device Testing
+
+ The site has been tested on multiple devices, including a 24inch desktop, 13 inch laptop, Sony Xperia 5, Samsung a51 and Iphone 12 pro. 
+ 
+ The only issue I have discovered is that on screens smaller than an Iphone 5, the jumbotron content pushes upwards, which I will try and fix in a later update.
+
+ ## Deployment
+
+ ### GitHub Pages
+
+ This website has been deployed using GitHub pages, to do this...
+
+ 1. Log into your GitHub account and find the repository.
+ 2. Click on 'Settings' and scroll down to find the 'Pages' option.
+ 3. Click 'Source' and select 'None' and then 'Master branch'.
+ 4. Save it and refresh.
+ 5. Page is now deployed, it can be found under GitHub pages.
+
+ To run it locally:
+
+ 1. Log in to GitHub and click on repository to download.
+ 2. Click on the 'Code' button. Download the ZIP file.
+ 3. Once you have downloaded the file, it can be extracted and used in your local enviroment.
+
+
+ ## Credits
+
+ ### Images
+
+ All images used on the site are copyright-free from unsplash, the photo's are taken by:
+
+ * [Charlotte Stowe](https://unsplash.com/photos/WkqHU1G2_sg)
+ * [Andreas Dress](https://unsplash.com/photos/MBW3F1jEhh0)
+ * [Harley-Davidson](https://unsplash.com/photos/9yx3FyexTOU)
+ * [David Von Deiemar](https://unsplash.com/photos/dcAC2gblAVQ)
+ * [Charlie van Rooy](https://unsplash.com/photos/iCPpeZnGrlM)
+ * [Matt Seymour](https://unsplash.com/photos/3uu5_kn1k_Y)
+ * [Tom Radetzki](https://unsplash.com/photos/czUK3rgnVio)
+ 
+
+ ### Code
+
+
 
  
     
