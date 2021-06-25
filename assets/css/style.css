@@ -208,18 +208,19 @@ label {
 }
 
 
-  
+
 .about {
     text-align: center;
     margin-top: 50px;
     padding: 50px 25px;
-    
+
 }
 
 .featurette {
     padding: 30px;
-    
+
 }
+
 .btn-secondary {
     background-color: #033249;
     color: #dddddd;
