@@ -11,7 +11,7 @@ This site is built for an electric/hybrid vehicle specialist that is looking to 
 
 
 
-# Design
+## Design
 
 ### Colours
 
@@ -20,16 +20,30 @@ Colours used throughout the site are:
 ![033249](assets/images/033249-screenshot.png "#033249")
 
 ![32e0c4](assets/images/32e0c4-screenshot.png "#32e0c4")
-
 ![dddddd](assets/images/dddddd-screenshot.png "#dddddd")
 
 These colours are used in the logo and consistently throughout the site. I chose these colours as I feel the teal shade is on trend and goes with the modern feel and aims of the business. The blue complements the teal and gives the site a proffesional look.
 
-___
 
 ### Fonts
 
 Raleway is the main font throughout the site, with sans serif as the fallback option. The hex color #dddddd is used for most of the typography to complement the other colors throughout the site.
+
+### Wireframes
+
+* [Wireframes](/wireframes/)
+
+### Screenshots
+
+  * Navbar ![NavBar](assets/images/navbar-screenshot.png)
+
+  * Footer ![Footer](assets/images/footer-screenshot.png)
+
+  * Top of Homepage ![Home page](assets/images/homepage-top-screenshot.png)
+
+  * Contact Form Page ![Contact form](assets/images/contact-us-screenshot.png)
+
+
 
 ## Technologies Used
 
@@ -87,6 +101,12 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
  3. Further use of the Company Logo throughout the site to promote the business and make it become more recognisable.
  4. Updates to the footer, with links to contact the company directly, with a chat board and a map link.
  5. Affiliate marketing links and more cta to generate business.
+
+ ## Testing 
+
+ Chrome DevTools was used throughout the project for testing and debugging styling and positional issues.
+
+ 
     
             
         
