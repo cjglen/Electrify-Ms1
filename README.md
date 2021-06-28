@@ -42,7 +42,6 @@ The goals at this stage are to increase brand awareness, increase sales and cont
 Colours used throughout the site are:
 
 ![033249](assets/images/033249-screenshot.png "#033249")
-
 ![32e0c4](assets/images/32e0c4-screenshot.png "#32e0c4")
 ![dddddd](assets/images/dddddd-screenshot.png "#dddddd")
 
