@@ -8,7 +8,31 @@ This site is built for an electric/hybrid vehicle specialist that is looking to 
 
 ![responsive site images](assets/images/responsive-screenshot.png)
 
+## User Experience (UX)
 
+### Website Goals
+
+The website has been designed with mobile first thinking. Making it easy to use on any device. 
+
+The UX has been structured around as many calls to actions as possible, taking the user to the Contact Us page and therefore creating business opportunties. It has been designed in a way that is easy to scale up and add new features. For example, a dedicated sales page for a car dealership is essential and that would be added at a later date.
+
+The goals at this stage are to increase brand awareness, increase sales and contact to the business and drive awareness of the social media channels.
+
+### User Stories
+
+* First Time Visitor Goals:
+   1. As a first time user, I want to easily establish the purpose of the site and learn more about what the company does.
+   2. As a first time user, I want to be able to navigate the website without much thought and find what I need easily.
+   3. As a first time visitor, I want to be able to find links to their social media channels and view any supporting content they produce.
+
+* Returning Visitor Goals:
+   1. As a returning visitor, I wish to be able to pick up where I left off and find an easy way to contact the company directly.
+   2. As a returning visitor, I want to find information about how they will benefit me if I choose to use their services.
+   3. As a returning visitor, I want to be able to work on my tablet or mobile.
+
+* Frequent Visitor Goals:
+   1. As a frequent visitor, I want to be able to access the site on any device and use all the facilities available.
+   2. As a frequent visitor, I want to see a detailed list of services and make purchases directly on the site.
 
 
 ## Design
@@ -81,14 +105,14 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 
   * Balsamiq was used to create the original Wireframes for the project at its inception.
 
-  * [Unsplash](https://unsplash.com/)
+* [Unsplash](https://unsplash.com/)
 
-    * All images on the site are used from Unsplash.
+  * All images on the site are used from Unsplash.
 
 
   ## Features
 
- * Navigation bar is the same on every page, it is responsive and compacts into a burger icon on smaller devices. It houses the company logo and options to navigate through the site, with space to add more.
+ * The Navigation bar is the same on every page, it is responsive and compacts into a burger icon on smaller devices. It houses the company logo and options to navigate through the site, with space to add more.
 
  * Footer, this again is consistent across the site, it is home to the clickable social icons which open on separate tabs. 
 
@@ -128,6 +152,10 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
  
  The only issue I have discovered is that on screens smaller than an Iphone 5, the jumbotron content pushes upwards, which I will try and fix in a later update.
 
+ ### User testing
+
+ The site can be a little slow on some devices to load the background image on the Contact Us page, this is something I am going to look at fixing asap. The cards at the bottom of the home screen are also occasionally slow to load.
+
  ## Deployment
 
  ### GitHub Pages
@@ -163,6 +191,18 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
  
 
  ### Code
+
+* [Bootstrap](https://getbootstrap.com/) Bootstrap was used throughout the site, most for layout and responsiveness.
+* [W3Schools](https://www.w3schools.com/) W3 Schools was used as a learning resource throughout the project.
+* [Code Institue](https://codeinstitute.net/) Code Institute LMS used for learning during the project as this is part of the course.
+* [W3 Validator](https://validator.w3.org/) For checking HTML is valid with no errors.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) For CSS validation.
+
+## Acknowledgements
+
+* [Code Institue](https://codeinstitute.net/) The code institue for the LMS and tutor support, plus the Slack community for resources and guidance.
+* [Harlow College](https://www.harlow-college.ac.uk/) Patrick Justus for holding a weekly info session.
+
 
 
 
