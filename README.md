@@ -54,7 +54,7 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 
 ### Wireframes
 
-* [Wireframes](/wireframes/)
+* [Wireframes](assets/wireframes/Ms1-Desktop-home.bmpr)
 
 ### Screenshots
 
