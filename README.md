@@ -58,6 +58,8 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
   * [Desktop](assets/wireframes/desktop-home-ms1.png)
   * [Tablet](assets/wireframes/ipad-home-ms1.png)
   * [Mobile](assets/wireframes/iphone-home-ms1.png)
+  * [Contact Page (all devices)](assets/wireframes/contact-page-ms1.png)
+  * [About Page (all devices)](assets/wireframes/about-page-ms1.png)
 
 ### Screenshots
 
@@ -194,9 +196,9 @@ Raleway is the main font throughout the site, with sans serif as the fallback op
 
  ### Code
 
-* [Bootstrap](https://getbootstrap.com/) Bootstrap was used throughout the site, most for layout and responsiveness.
+* [Bootstrap](https://getbootstrap.com/) Bootstrap was used throughout the site, for layout and responsiveness.
 * [W3Schools](https://www.w3schools.com/) W3 Schools was used as a learning resource throughout the project.
-* [Code Institue](https://codeinstitute.net/) Code Institute LMS used for learning during the project as this is part of the course.
+* [Code Institue](https://codeinstitute.net/) Code Institute LMS used for learning during the project as this project is part of the course.
 * [W3 Validator](https://validator.w3.org/) For checking HTML is valid with no errors.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) For CSS validation.
 
